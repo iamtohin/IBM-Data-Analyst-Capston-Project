@@ -5,5 +5,6 @@ Your first task is to collect the top programming skills that are most in demand
 * What are the top programming languages in demand?
 * What are the top database skills in demand?
 * What are the popular IDEs?
-* You will begin by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases. Once this is completed, you will make that data ready for analysis using data wrangling techniques. When the data is ready you will then want to apply statistical techniques to analyze the data. Then bring all of your information together by using IBM Cognos Analytics to create your dashboard. And finally, show off your storytelling skills by sharing your findings in a presentation.
+* You will begin by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases.
+ Once this is completed, you will make that data ready for analysis using data wrangling techniques. When the data is ready you will then want to apply statistical techniques to analyze the data. Then bring all of your information together by using IBM Cognos Analytics to create your dashboard. And finally, show off your storytelling skills by sharing your findings in a presentation.
 * Dashboard URL-https://dataplatform.cloud.ibm.com/dashboards/fe52d392-0d9c-4f29-8996-389531352958/view/6e1bdc0911b91dfc56efe6e4079979037f652454e1bb8b0b83867b495e607197a96f12c7c87a495cd9425037fbee4708cc
